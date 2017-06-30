@@ -1,1 +1,6 @@
-test/ 
+/.c9
+/.git
+/node_modules
+.gitignore
+Gruntfile.js
+test
